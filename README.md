@@ -2,7 +2,7 @@
 
 This is my solution to the two questions in Assignment 3.
 
-Problem 1: We use a stack based solution to create a way to convert infix mathematical expressions to postfix like we learned in lecture.
+Problem 1: We use a stack based solution to create a way to convert infix mathematical expressions to postfix like we learned in lecture. The program prompts the user to enter an infix expression.
 
 ![image](https://user-images.githubusercontent.com/112525310/231323541-8a744e4a-7fd4-42ac-846c-ed577b01d982.png)
 
