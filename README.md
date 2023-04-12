@@ -1,6 +1,6 @@
 # CS303_Assignment_3
 
-This is my solution to the two questions in assignments 3.
+This is my solution to the two questions in Assignment 3.
 
 Problem 1: We use a stack based solution to create a way to convert infix mathematical expressions to postfix like we learned in lecture.
 
